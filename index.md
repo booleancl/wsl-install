@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Happy Jekylling!"
+title: "¿Qué es? Y para qué sirve WSL"
 ---
 
 ## You're ready to go!
